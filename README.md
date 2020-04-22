@@ -1,2 +1,2 @@
-# github-example
-This repository is a demonstration of how to create a Github repository and properly set it up
+# Coursera_Capstone
+This repository will be used for the capstone project
